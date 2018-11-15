@@ -3,15 +3,50 @@ html {
   width: 100%;
 }
 body {
-	background-color: yellow;
+	background-color: #7ec0ee;
 	margin: auto;
+	text-align: center;
+	padding-bottom: 100px;
 }
 p {
-	font-size: 10px;
+	font-size: 30px;
+	color: white;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 h1 {
-	font-size: 30px;
+	font-size: 100px;
 }
 h2 {
-	font-size: 20px;
+	font-size: 50px;
+}
+h3 {
+	font-size: 40px;
+	border-radius: 25px;
+	background-color: white;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+#title {
+	border-radius: 50px;
+	background-color: white;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+	line-height: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+img {
+	width: 50%;
+	height: 35%;
+	border-style: solid;
+}
+#link {
+	font-size: 40px;
+	border-radius: 25px;
+	background-color: #7ec0ee;
+	border-style: solid;
+	border-color: white;
+	padding: 20px;
 }
